@@ -1,2 +1,4 @@
-# solangewirngo.github.io
-My data analytics portfolio showcasing projects, skills, and case studies
+[Home](https://solangewirngo.github.io)  
+[Projects](https://solangewirngo.github.io/projects)  
+[About Me](#about-me)  
+[Contact](#contact)
